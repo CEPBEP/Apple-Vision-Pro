@@ -1,4 +1,4 @@
-# VisionOSInspiration4
+# VisionOSInspiration 4
 A one of demo project to help everyone in Getting Started With VisionOS development and by creating a SpaceX Inspiration4 Fan App. Consider [subscribing here](https://www.youtube.com/@dilmerv) to support this GitHub repo and my content thank you.
 
 📢 Full 🎥 video series in chronolical order: 
